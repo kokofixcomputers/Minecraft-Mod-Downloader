@@ -1,2 +1,3 @@
 # Minecraft-Mod-Downloader
 for my own use...
+This might be public lator... but..... for now i'm keeping it to my own use.
